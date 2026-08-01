@@ -138,13 +138,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**VENNAPUSA UDAY**
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Email: your-email@example.com
+**VENNAPUSA UDAY KIRAN REDDY**
 
 ---
 
